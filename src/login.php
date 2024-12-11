@@ -12,7 +12,7 @@
         <?php include("header.php"); ?>
     </div>
     <div>
-        <?php require("form_login.php"); ?>
+        <?php include("form_login.php"); ?>
     </div>
 <!--
     <script>

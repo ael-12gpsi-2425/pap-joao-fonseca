@@ -3,7 +3,7 @@
             <div class="flex lg:flex-1">
                 <a href="#" class="-m-1.5 p-1.5">
                     <span class="sr-only">Your Company</span>
-                    <img class="h-8 w-auto" src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600" alt="">
+                    <img class="h-8 w-auto" src="img/logo.png" alt="">
                 </a>
             </div>
             <div class="flex lg:hidden">
@@ -137,7 +137,7 @@
                 <a href="#" class="text-sm/6 font-semibold text-gray-900">Company</a>
             </div>
             <div class="hidden lg:flex lg:flex-1 lg:justify-end">
-                <a href="#" class="text-sm/6 font-semibold text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a>
+                <a href="login.php" class="text-sm/6 font-semibold text-gray-900">Entrar <span aria-hidden="true">&rarr;</span></a>
             </div>
         </nav>
         <!-- Mobile menu, show/hide based on menu open state. -->
